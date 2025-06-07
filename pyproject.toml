@@ -5,3 +5,4 @@ description = "MCP Python Interpreter: run python code. Python-mcp-server, mcp-p
 requires-python = ">=3.10"
 # guard against empty input
 # clarify the control flow
+# guard against empty input
